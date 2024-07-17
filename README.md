@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amikumarsingh
-- 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning python for backhand
+- 👀 I’m interested in Web Devlopment, Data Analytic.
+- 🌱 I’m currently learning python for Data Analytic
 - 💞️ I’m looking to collaborate on  various projects
 - 📫 How to reach me ... you  can reach me through linkedin profile @AmitKumarSingh (https://www.linkedin.com/in/amitkumarsingh999/)
 - 😄 Pronouns: ... wil be learning more coding languages in coming year
