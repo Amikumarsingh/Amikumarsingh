@@ -1,6 +1,29 @@
 # 💫 About Me:
-🔭 I’m currently working on : Developing my Projects and contributing to open-source projects.<br>👯 I’m looking to collaborate on : Open-source projects related to AI and Data Science, where I can contribute with my skills in Python, data analysis, and web development.<br>🤝 I’m looking for help with : Enhancing my skills in Python, C++, HTML, CSS and BootStrap to diversify my programming expertise.<br>🌱 I’m currently learning : Advanced Python techniques and exploring data structures & algorithms.<br>💬 Ask me about : My participation in hackathons and how I approach problem-solving and collaboration in these competitive environments.<br>⚡ Fun fact : I'm a space enthusiast and love exploring projects that involve space technology, AI, and machine learning. One day, I'd love to work on AI-driven space exploration technologies! 🚀
+## Amit Kumar Singh
 
+AI Engineer · Python Backend · Third-year AI & DS @ SPPU (CGPA 9.13/10)
+Amazon ML Summer School '25 Selectee · Smart India Hackathon Finalist
+
+I build production AI systems — not demos. LLM inference pipelines, real-time event
+systems, multi-agent RAG architectures, and distributed backends serving real users.
+
+**Open to:** SDE / AI Engineering internships — 6 months, available immediately
+
+---
+
+### What I've built
+
+| Project | Stack | What it does |
+|---|---|---|
+| [ai-content-compliance-rl](https://github.com/Amikumarsingh/ai-content-compliance-rl) | Python · FastAPI · OpenEnv · Docker | RL environment for training AI agents on content moderation |
+| [AI-Finance-Assistant-LLM-RAG-System](https://github.com/Amikumarsingh/AI-Finance-Assistant-LLM-RAG-System) | Python · LangChain · Pydantic | 3-agent pipeline for financial document intelligence |
+| [Multimodal-Document-Parsing-System](https://github.com/Amikumarsingh/Multimodal-Document-Parsing-System) | LayoutLMv3 · Donut · OCR · PyTorch | Benchmarks 3 Document AI architectures (F1 0.88) |
+| [Distributed-file-storage](https://github.com/Amikumarsingh/Distributed-file-storage) | Python · gRPC · Docker · Kubernetes | P2P storage with consistent hashing + replication |
+| [URL-Shortener-Rate-Limiter-System](https://github.com/Amikumarsingh/URL-Shortener-Rate-Limiter-System) | TypeScript · Node.js · Token Bucket | URL shortener with custom rate limiting + analytics |
+
+---
+
+**LeetCode:** 234 problems (Rating 1,372) &nbsp;·&nbsp; **GFG:** Score 618, 96-day streak &nbsp;·&nbsp; **CF:** Singh_Amit_Kumar (Rating 772)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amitkumarsingh999/) 
